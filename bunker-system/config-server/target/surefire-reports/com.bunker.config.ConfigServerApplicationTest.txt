@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.bunker.config.ConfigServerApplicationTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.533 s - in com.bunker.config.ConfigServerApplicationTest

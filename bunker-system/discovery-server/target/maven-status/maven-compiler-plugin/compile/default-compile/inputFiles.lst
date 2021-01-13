@@ -1,0 +1,8 @@
+/home/lukasz/Documents/workspace/bunker-system/discovery-server/src/main/java/com/bunker/disovery/interceptors/RestTemplateSetHeaderInterceptor.java
+/home/lukasz/Documents/workspace/bunker-system/discovery-server/src/main/java/com/bunker/disovery/util/UniqueIDGenerator.java
+/home/lukasz/Documents/workspace/bunker-system/discovery-server/src/main/java/com/bunker/disovery/configuration/SpringLoggingAutoConfiguration.java
+/home/lukasz/Documents/workspace/bunker-system/discovery-server/src/main/java/com/bunker/disovery/filters/SpringLoggingFilter.java
+/home/lukasz/Documents/workspace/bunker-system/discovery-server/src/main/java/com/bunker/disovery/wrapper/ServletOutputStreamWrapper.java
+/home/lukasz/Documents/workspace/bunker-system/discovery-server/src/main/java/com/bunker/disovery/wrapper/SpringRequestWrapper.java
+/home/lukasz/Documents/workspace/bunker-system/discovery-server/src/main/java/com/bunker/disovery/DiscoveryServerApplication.java
+/home/lukasz/Documents/workspace/bunker-system/discovery-server/src/main/java/com/bunker/disovery/wrapper/SpringResponseWrapper.java

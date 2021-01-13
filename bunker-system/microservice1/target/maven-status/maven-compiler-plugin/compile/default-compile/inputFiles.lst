@@ -1,0 +1,11 @@
+/home/lukasz/Documents/workspace/bunker-system/microservice1/src/main/java/com/bunker/microservice1/Microservice1Application.java
+/home/lukasz/Documents/workspace/bunker-system/microservice1/src/main/java/com/bunker/microservice1/configuration/UniqueIDGenerator.java
+/home/lukasz/Documents/workspace/bunker-system/microservice1/src/main/java/com/bunker/microservice1/configuration/SpringLoggingAutoConfiguration.java
+/home/lukasz/Documents/workspace/bunker-system/microservice1/src/main/java/com/bunker/microservice1/wrappers/SpringRequestWrapper.java
+/home/lukasz/Documents/workspace/bunker-system/microservice1/src/main/java/com/bunker/microservice1/configuration/Microservice1Configuration.java
+/home/lukasz/Documents/workspace/bunker-system/microservice1/src/main/java/com/bunker/microservice1/filters/SpringLoggingFilter.java
+/home/lukasz/Documents/workspace/bunker-system/microservice1/src/main/java/com/bunker/microservice1/wrappers/ServletOutputStreamWrapper.java
+/home/lukasz/Documents/workspace/bunker-system/microservice1/src/main/java/com/bunker/microservice1/wrappers/SpringResponseWrapper.java
+/home/lukasz/Documents/workspace/bunker-system/microservice1/src/main/java/com/bunker/microservice1/interceptors/RestTemplateSetHeaderInterceptor.java
+/home/lukasz/Documents/workspace/bunker-system/microservice1/src/main/java/com/bunker/microservice1/interceptors/CorrelationInterceptor.java
+/home/lukasz/Documents/workspace/bunker-system/microservice1/src/main/java/com/bunker/microservice1/controller/rest/Microservice1RestController.java

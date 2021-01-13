@@ -1,0 +1,66 @@
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<head >
+
+</head>
+<body>
+<div th:fragment="menu-bar">
+    <div class="sidebar" data-background-color="white" data-active-color="success">
+        <div class="sidebar-wrapper">
+            <div class="logo">
+                <a href="http://www.creative-tim.com" class="simple-text">
+                    Trampoline
+                </a>
+                <img id="logo-img" th:src="@{/v2/img/logo.png}" alt="" />
+            </div>
+
+            <ul class="nav">
+
+                <li th:classappend="${selected}=='Dashboard' ? 'active' : ''">
+                    <a href="/" th:href="@{/}">
+                        <i class="ti-stats-up"></i>
+                        <p>Dashboard</p>
+                    </a>
+                </li>
+                <li th:classappend="${selected}=='Instances' ? 'active' : ''">
+                    <a href="/instances" th:href="@{/instances}">
+                        <i class="ti-view-list-alt"></i>
+                        <p>Instances</p>
+                    </a>
+                </li>
+                <li th:classappend="${selected}=='Settings' ? 'active' : ''">
+                    <a href="/settings" th:href="@{/settings}">
+                        <i class="ti-panel"></i>
+                        <p>Settings</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://github.com/ErnestOrt/Trampoline">
+                        <i class="ti-github"></i>
+                        <p>Trampoline Repo</p>
+                    </a>
+                </li>
+                <li th:classappend="${selected}=='Project Examples' ? 'active' : ''">
+                    <a href="/trampoline/project-examples">
+                        <i class="ti-envelope"></i>
+                        <p>Project Examples</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="/trampoline/shutdown">
+                        <i class="ti-unlink"></i>
+                        <p>Shutdown</p>
+                    </a>
+                </li>
+                <li class="active-pro">
+                    <a href="https://github.com/ErnestOrt/Trampoline/issues">
+                        <i class="ti-comments"></i>
+                        <p>FeedBack</p>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+</body>
+</html>

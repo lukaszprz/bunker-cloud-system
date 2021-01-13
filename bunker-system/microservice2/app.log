@@ -1,0 +1,632 @@
+03-01-2021 00:00:02.285 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 00:05:02.290 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 00:10:02.291 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 00:15:02.292 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 00:20:02.293 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 00:25:02.294 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 00:30:02.295 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 00:35:02.296 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 00:40:02.296 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 00:45:02.297 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 00:50:02.298 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 00:55:02.299 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 01:00:02.300 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 01:05:02.301 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 01:10:02.302 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 01:15:02.302 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 01:20:02.303 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 01:25:02.304 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 01:30:02.305 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 01:35:02.306 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 01:40:02.307 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 01:45:02.308 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 01:50:02.309 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 01:55:02.310 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 02:00:02.311 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 02:05:02.312 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 02:10:02.313 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 02:15:02.314 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 02:15:38.611 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 02:15:38.612 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 02:15:38.622 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 02:16:38.646 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 02:16:38.647 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 02:16:38.650 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 02:17:38.671 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 02:17:38.671 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 02:17:38.674 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 02:18:38.700 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 02:18:38.700 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 02:18:38.704 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 02:19:38.729 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 02:19:38.729 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 02:19:38.733 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 02:20:02.315 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 02:20:38.760 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 02:20:38.760 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 02:20:38.764 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 02:21:38.792 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 02:21:38.792 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 02:21:38.796 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 02:22:38.824 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 02:22:38.824 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 02:22:38.829 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 02:23:38.852 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 02:23:38.852 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 02:23:38.855 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 02:24:38.880 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 02:24:38.880 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 02:24:38.884 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 02:25:02.316 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 02:25:38.913 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 02:25:38.913 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 02:25:38.917 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 02:26:38.942 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 02:26:38.942 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 02:26:38.945 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 02:27:38.970 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 02:27:38.970 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 02:27:38.974 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 02:28:39.002 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 02:28:39.002 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 02:28:39.006 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 02:29:39.033 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 02:29:39.034 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 02:29:39.038 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 02:30:02.317 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 02:30:39.063 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 02:30:39.064 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 02:30:39.068 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 02:31:39.109 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 02:31:39.110 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 02:31:39.118 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 02:32:39.145 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 02:32:39.146 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 02:32:39.150 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 02:33:39.178 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 02:33:39.179 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 02:33:39.183 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 02:34:39.207 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 02:34:39.208 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 02:34:39.211 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 02:35:02.317 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 02:35:39.234 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 02:35:39.234 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 02:35:39.238 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 02:36:39.260 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 02:36:39.260 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 02:36:39.264 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 02:37:39.291 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 02:37:39.291 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 02:37:39.295 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 02:38:39.323 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 02:38:39.323 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 02:38:39.327 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 02:39:39.354 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 02:39:39.354 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 02:39:39.358 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 02:40:02.318 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 02:40:39.385 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 02:40:39.385 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 02:40:39.389 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 02:41:39.415 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 02:41:39.416 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 02:41:39.418 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 02:42:39.446 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 02:42:39.446 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 02:42:39.450 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 02:43:39.479 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 02:43:39.479 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 02:43:39.483 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 02:45:02.319 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 02:50:02.320 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 02:55:02.320 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 03:00:02.321 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 03:05:02.322 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 03:10:02.322 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 03:15:02.323 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 03:20:02.324 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 03:25:02.325 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 03:30:02.326 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 03:35:02.327 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 03:40:02.328 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 03:45:02.329 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 03:50:02.330 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 03:55:02.331 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 04:00:02.332 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 04:05:02.332 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 04:10:02.334 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 04:15:02.334 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 04:20:02.335 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 04:25:02.336 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 04:30:02.336 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 04:35:02.337 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 04:40:02.338 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 04:45:02.339 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 04:50:02.340 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 04:55:02.341 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 05:00:02.342 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 05:05:02.343 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 05:10:02.344 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 05:15:02.345 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 05:20:02.345 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 05:25:02.345 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 05:30:02.346 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 05:34:38.627 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 05:34:38.627 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 05:34:38.637 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 05:35:02.347 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 05:35:38.661 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 05:35:38.661 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 05:35:38.663 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 05:36:38.688 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 05:36:38.688 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 05:36:38.692 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 05:37:38.716 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 05:37:38.717 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 05:37:38.721 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 05:38:38.745 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 05:38:38.745 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 05:38:38.749 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 05:39:38.766 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 05:39:38.766 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 05:39:38.769 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 05:40:02.348 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 05:40:38.796 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 05:40:38.797 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 05:40:38.801 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 05:41:38.826 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 05:41:38.827 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 05:41:38.830 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 05:42:38.852 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 05:42:38.852 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 05:42:38.857 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 05:43:38.885 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 05:43:38.886 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 05:43:38.890 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 05:44:38.917 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 05:44:38.918 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 05:44:38.921 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 05:45:02.349 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 05:45:38.942 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 05:45:38.942 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 05:45:38.945 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 05:46:38.967 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 05:46:38.967 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 05:46:38.972 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 05:47:38.998 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 05:47:38.998 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 05:47:39.002 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 05:48:39.034 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 05:48:39.034 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 05:48:39.042 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 05:49:39.063 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 05:49:39.063 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 05:49:39.067 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 05:50:02.350 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 05:50:39.090 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 05:50:39.091 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 05:50:39.095 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 05:55:02.351 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 06:00:02.351 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 06:05:02.352 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 06:10:02.353 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 06:15:02.354 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 06:20:02.355 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 06:25:02.355 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 06:30:02.356 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 06:35:02.357 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 06:40:02.358 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 06:44:10.707 SpringContextShutdownHook  [INFO ] EurekaServiceRegistry - Unregistering application MICROSERVICE2 with eureka with status DOWN
+03-01-2021 06:44:10.707 SpringContextShutdownHook  [INFO ] DiscoveryClient$3 - Saw local status change event StatusChangeEvent [timestamp=1609652650707, current=DOWN, previous=UP]
+03-01-2021 06:44:10.708 DiscoveryClient-InstanceInfoReplicator-0  [INFO ] DiscoveryClient$3 - Saw local status change event StatusChangeEvent [timestamp=1609652650708, current=UP, previous=DOWN]
+03-01-2021 06:44:10.708 DiscoveryClient-InstanceInfoReplicator-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 06:44:10.721 DiscoveryClient-InstanceInfoReplicator-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 06:44:10.725 SpringContextShutdownHook  [INFO ] ExecutorConfigurationSupport - Shutting down ExecutorService 'applicationTaskExecutor'
+03-01-2021 06:44:11.730 SpringContextShutdownHook  [INFO ] DiscoveryClient - Shutting down DiscoveryClient ...
+03-01-2021 06:44:14.734 SpringContextShutdownHook  [INFO ] DiscoveryClient - Unregistering ...
+03-01-2021 06:44:14.737 SpringContextShutdownHook  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - deregister  status: 200
+03-01-2021 06:44:14.744 SpringContextShutdownHook  [INFO ] DiscoveryClient - Completed shut down of DiscoveryClient
+03-01-2021 06:45:22.834 background-preinit  [INFO ] Version - HV000001: Hibernate Validator 6.1.6.Final
+03-01-2021 06:45:23.195 main  [INFO ] ConfigServicePropertySourceLocator - Fetching config from server at : http://localhost:8888
+03-01-2021 06:45:23.278 main  [INFO ] ConfigServicePropertySourceLocator - Connect Timeout Exception on Url - http://localhost:8888. Will be trying the next url if available
+03-01-2021 06:45:23.278 main  [WARN ] ConfigServicePropertySourceLocator - Could not locate PropertySource: I/O error on GET request for "http://localhost:8888/microservice2/default": Połączenie odrzucone (Connection refused); nested exception is java.net.ConnectException: Połączenie odrzucone (Connection refused)
+03-01-2021 06:45:23.291 main  [INFO ] SpringApplication - The following profiles are active: native
+03-01-2021 06:45:24.048 main  [INFO ] GenericScope - BeanFactory id=2a4dc608-5d09-3b6a-b352-ef32c986bb2e
+03-01-2021 06:45:24.612 main  [INFO ] UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 1c621874-87d5-4997-9e35-a6abb64a0de6
+
+03-01-2021 06:45:24.737 main  [INFO ] DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@3380ca3d, org.springframework.security.web.context.SecurityContextPersistenceFilter@741ac284, org.springframework.security.web.header.HeaderWriterFilter@72b0a004, org.springframework.security.web.csrf.CsrfFilter@3bb9ca38, org.springframework.security.web.authentication.logout.LogoutFilter@31acfd4e, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@1cbc5693, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@bd3eff4, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@23310248, org.springframework.security.web.session.SessionManagementFilter@4b56b031, org.springframework.security.web.access.ExceptionTranslationFilter@562919fe, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1b4872bc]
+03-01-2021 06:45:25.153 main  [INFO ] ExecutorConfigurationSupport - Initializing ExecutorService 'applicationTaskExecutor'
+03-01-2021 06:45:25.811 main  [INFO ] DiscoveryClientOptionalArgsConfiguration - Eureka HTTP Client uses RestTemplate.
+03-01-2021 06:45:25.912 main  [WARN ] ZipkinAutoConfiguration - Check result of the [RestTemplateSender{http://localhost:9411/api/v2/spans}] contains an error [CheckResult{ok=false, error=org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:9411/api/v2/spans": Połączenie odrzucone (Connection refused); nested exception is java.net.ConnectException: Połączenie odrzucone (Connection refused)}]
+03-01-2021 06:45:26.137 main  [WARN ] LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger - Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it to the classpath.
+03-01-2021 06:45:26.200 main  [INFO ] EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+03-01-2021 06:45:26.261 main  [INFO ] StartupInfoLogger - Started Microservice2ApplicationTest in 3.776 seconds (JVM running for 4.381)
+03-01-2021 06:45:27.411 SpringContextShutdownHook  [INFO ] ExecutorConfigurationSupport - Shutting down ExecutorService 'applicationTaskExecutor'
+03-01-2021 07:31:27.865 background-preinit  [INFO ] Version - HV000001: Hibernate Validator 6.1.6.Final
+03-01-2021 07:31:28.265 main  [INFO ] ConfigServicePropertySourceLocator - Fetching config from server at : http://localhost:8888
+03-01-2021 07:31:28.341 main  [INFO ] ConfigServicePropertySourceLocator - Connect Timeout Exception on Url - http://localhost:8888. Will be trying the next url if available
+03-01-2021 07:31:28.342 main  [WARN ] ConfigServicePropertySourceLocator - Could not locate PropertySource: I/O error on GET request for "http://localhost:8888/microservice2/default": Połączenie odrzucone (Connection refused); nested exception is java.net.ConnectException: Połączenie odrzucone (Connection refused)
+03-01-2021 07:31:28.351 main  [INFO ] SpringApplication - The following profiles are active: native
+03-01-2021 07:31:29.093 main  [INFO ] GenericScope - BeanFactory id=2a4dc608-5d09-3b6a-b352-ef32c986bb2e
+03-01-2021 07:31:29.736 main  [INFO ] UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: e5316b22-8d5a-45f6-bfdc-d945fbdd6bdf
+
+03-01-2021 07:31:29.874 main  [INFO ] DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@647b9364, org.springframework.security.web.context.SecurityContextPersistenceFilter@2443abd6, org.springframework.security.web.header.HeaderWriterFilter@740fefc6, org.springframework.security.web.csrf.CsrfFilter@1c628f6a, org.springframework.security.web.authentication.logout.LogoutFilter@73ca34e7, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@477021ee, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@29d405e6, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@b6bccb4, org.springframework.security.web.session.SessionManagementFilter@59845579, org.springframework.security.web.access.ExceptionTranslationFilter@63fd4dda, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@13d019a4]
+03-01-2021 07:31:30.321 main  [INFO ] ExecutorConfigurationSupport - Initializing ExecutorService 'applicationTaskExecutor'
+03-01-2021 07:31:31.082 main  [INFO ] DiscoveryClientOptionalArgsConfiguration - Eureka HTTP Client uses RestTemplate.
+03-01-2021 07:31:31.220 main  [WARN ] ZipkinAutoConfiguration - Check result of the [RestTemplateSender{http://localhost:9411/api/v2/spans}] contains an error [CheckResult{ok=false, error=org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:9411/api/v2/spans": Połączenie odrzucone (Connection refused); nested exception is java.net.ConnectException: Połączenie odrzucone (Connection refused)}]
+03-01-2021 07:31:31.496 main  [WARN ] LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger - Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it to the classpath.
+03-01-2021 07:31:31.564 main  [INFO ] EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+03-01-2021 07:31:31.630 main  [INFO ] StartupInfoLogger - Started Microservice2ApplicationTest in 4.14 seconds (JVM running for 4.756)
+03-01-2021 07:31:32.791 SpringContextShutdownHook  [INFO ] ExecutorConfigurationSupport - Shutting down ExecutorService 'applicationTaskExecutor'
+03-01-2021 07:35:07.914 background-preinit  [INFO ] Version - HV000001: Hibernate Validator 6.1.6.Final
+03-01-2021 07:35:07.940 restartedMain  [INFO ] DeferredLog - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+03-01-2021 07:35:08.377 restartedMain  [INFO ] ConfigServicePropertySourceLocator - Fetching config from server at : http://localhost:8888
+03-01-2021 07:35:08.445 restartedMain  [INFO ] ConfigServicePropertySourceLocator - Located environment: name=microservice2, profiles=[default], label=null, version=null, state=null
+03-01-2021 07:35:08.446 restartedMain  [INFO ] PropertySourceBootstrapConfiguration - Located property source: [BootstrapPropertySource {name='bootstrapProperties-configClient'}, BootstrapPropertySource {name='bootstrapProperties-class path resource [shared/microservice2.properties'}, BootstrapPropertySource {name='bootstrapProperties-class path resource [shared/application.properties'}]
+03-01-2021 07:35:08.459 restartedMain  [INFO ] SpringApplication - No active profile set, falling back to default profiles: default
+03-01-2021 07:35:09.054 restartedMain  [INFO ] GenericScope - BeanFactory id=ab2f1dd3-189a-396f-9297-8473ead21cbd
+03-01-2021 07:35:09.512 restartedMain  [INFO ] TomcatWebServer - Tomcat initialized with port(s): 0 (http)
+03-01-2021 07:35:09.517 restartedMain  [INFO ] DirectJDKLog - Initializing ProtocolHandler ["http-nio-auto-1"]
+03-01-2021 07:35:09.518 restartedMain  [INFO ] DirectJDKLog - Starting service [Tomcat]
+03-01-2021 07:35:09.518 restartedMain  [INFO ] DirectJDKLog - Starting Servlet engine: [Apache Tomcat/9.0.41]
+03-01-2021 07:35:09.555 restartedMain  [INFO ] DirectJDKLog - Initializing Spring embedded WebApplicationContext
+03-01-2021 07:35:09.555 restartedMain  [INFO ] ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1088 ms
+03-01-2021 07:35:09.786 restartedMain  [WARN ] ZipkinAutoConfiguration - Check result of the [RestTemplateSender{http://localhost:9411/api/v2/spans}] contains an error [CheckResult{ok=false, error=org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:9411/api/v2/spans": Połączenie odrzucone (Connection refused); nested exception is java.net.ConnectException: Połączenie odrzucone (Connection refused)}]
+03-01-2021 07:35:10.255 restartedMain  [INFO ] UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: c934d373-d208-4c4d-acf4-4d0458f81c2b
+
+03-01-2021 07:35:10.314 restartedMain  [INFO ] DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@2b05a1a9, org.springframework.security.web.context.SecurityContextPersistenceFilter@343981dc, org.springframework.security.web.header.HeaderWriterFilter@27611e69, org.springframework.security.web.csrf.CsrfFilter@38e541d0, org.springframework.security.web.authentication.logout.LogoutFilter@58b9e905, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@5b62ff76, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7a33a0d7, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@10da879b, org.springframework.security.web.session.SessionManagementFilter@45851760, org.springframework.security.web.access.ExceptionTranslationFilter@441554fe, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@48e444f5]
+03-01-2021 07:35:10.444 restartedMain  [INFO ] ExecutorConfigurationSupport - Initializing ExecutorService 'applicationTaskExecutor'
+03-01-2021 07:35:10.730 restartedMain  [WARN ] OptionalLiveReloadServer - Unable to start LiveReload server
+03-01-2021 07:35:10.815 restartedMain  [INFO ] DiscoveryClientOptionalArgsConfiguration - Eureka HTTP Client uses RestTemplate.
+03-01-2021 07:35:10.912 restartedMain  [WARN ] LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger - Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it to the classpath.
+03-01-2021 07:35:10.942 restartedMain  [INFO ] EndpointLinksResolver - Exposing 17 endpoint(s) beneath base path '/actuator'
+03-01-2021 07:35:11.002 restartedMain  [INFO ] DirectJDKLog - Starting ProtocolHandler ["http-nio-auto-1"]
+03-01-2021 07:35:11.009 restartedMain  [INFO ] TomcatWebServer - Tomcat started on port(s): 37793 (http) with context path ''
+03-01-2021 07:35:11.010 restartedMain  [INFO ] EurekaAutoServiceRegistration - Updating port to 37793
+03-01-2021 07:35:11.013 restartedMain  [INFO ] InstanceInfoFactory - Setting initial instance status as: STARTING
+03-01-2021 07:35:11.032 restartedMain  [INFO ] DiscoveryClient - Initializing Eureka in region us-east-1
+03-01-2021 07:35:11.034 restartedMain  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 07:35:11.045 restartedMain  [INFO ] DiscoveryClient - Disable delta property : false
+03-01-2021 07:35:11.046 restartedMain  [INFO ] DiscoveryClient - Single vip registry refresh property : null
+03-01-2021 07:35:11.046 restartedMain  [INFO ] DiscoveryClient - Force full registry fetch : false
+03-01-2021 07:35:11.046 restartedMain  [INFO ] DiscoveryClient - Application is null : false
+03-01-2021 07:35:11.046 restartedMain  [INFO ] DiscoveryClient - Registered Applications size is zero : true
+03-01-2021 07:35:11.046 restartedMain  [INFO ] DiscoveryClient - Application version is -1: true
+03-01-2021 07:35:11.046 restartedMain  [INFO ] DiscoveryClient - Getting all instance registry info from the eureka server
+03-01-2021 07:35:11.088 restartedMain  [INFO ] DiscoveryClient - The response status is 200
+03-01-2021 07:35:11.090 restartedMain  [INFO ] DiscoveryClient - Starting heartbeat executor: renew interval is: 5
+03-01-2021 07:35:11.091 restartedMain  [INFO ] InstanceInfoReplicator - InstanceInfoReplicator onDemand update allowed rate per min is 4
+03-01-2021 07:35:11.094 restartedMain  [INFO ] DiscoveryClient - Discovery Client initialized at timestamp 1609655711093 with initial instances count: 5
+03-01-2021 07:35:11.096 DiscoveryClient-InstanceInfoReplicator-0  [INFO ] DiscoveryClient$3 - Saw local status change event StatusChangeEvent [timestamp=1609655711096, current=UP, previous=STARTING]
+03-01-2021 07:35:11.096 DiscoveryClient-InstanceInfoReplicator-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 07:35:11.099 restartedMain  [INFO ] EurekaServiceRegistry - Registering application MICROSERVICE2 with eureka with status UP
+03-01-2021 07:35:11.100 restartedMain  [WARN ] InstanceInfoReplicator - Ignoring onDemand update due to rate limiter
+03-01-2021 07:35:11.119 DiscoveryClient-InstanceInfoReplicator-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 07:35:11.194 restartedMain  [INFO ] StartupInfoLogger - Started Microservice2Application in 3.691 seconds (JVM running for 3.966)
+03-01-2021 07:35:34.556 http-nio-auto-1-exec-1  [INFO ] DirectJDKLog - Initializing Spring DispatcherServlet 'dispatcherServlet'
+03-01-2021 07:35:34.556 http-nio-auto-1-exec-1  [INFO ] FrameworkServlet - Initializing Servlet 'dispatcherServlet'
+03-01-2021 07:35:34.558 http-nio-auto-1-exec-1  [INFO ] FrameworkServlet - Completed initialization in 2 ms
+03-01-2021 07:40:11.048 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 07:45:11.050 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 07:50:11.051 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 07:55:11.052 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 08:00:11.053 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 08:05:11.054 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 08:10:11.055 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 08:15:11.056 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 08:20:11.057 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 08:25:11.058 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 08:30:11.059 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 08:35:11.060 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 08:40:11.061 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 08:45:11.062 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 08:50:11.063 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 08:55:11.064 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 09:00:11.066 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 09:05:11.067 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 09:10:11.068 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 09:15:11.069 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 09:20:11.070 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 09:25:11.071 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 09:30:11.072 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 09:35:11.073 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 09:40:11.074 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 09:45:11.075 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 09:50:11.076 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 09:55:11.077 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 10:00:11.078 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 10:05:11.079 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 10:09:10.489 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 10:09:10.489 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 10:09:10.499 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 10:10:10.523 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 10:10:10.524 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 10:10:10.526 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 10:10:11.080 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 10:11:10.553 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 10:11:10.553 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 10:11:10.558 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 10:12:10.585 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 10:12:10.585 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 10:12:10.590 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 10:13:10.618 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 10:13:10.618 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 10:13:10.622 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 10:14:10.650 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 10:14:10.650 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 10:14:10.654 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 10:15:10.688 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 10:15:10.689 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 10:15:10.699 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 10:15:11.080 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 10:16:10.723 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 10:16:10.724 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 10:16:10.728 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 10:17:10.756 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 10:17:10.757 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 10:17:10.761 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 10:18:10.789 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 10:18:10.790 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 10:18:10.794 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 10:19:10.823 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 10:19:10.823 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 10:19:10.827 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 10:20:10.853 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 10:20:10.854 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 10:20:10.858 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 10:20:11.081 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 10:21:10.881 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 10:21:10.882 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 10:21:10.886 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 10:22:10.911 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 10:22:10.912 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 10:22:10.916 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 10:23:10.941 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 10:23:10.942 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 10:23:10.956 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 10:25:11.082 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 10:30:11.083 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 10:35:11.084 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 10:35:11.260 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 10:35:11.260 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 10:35:11.272 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 10:40:11.085 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 10:45:11.086 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 10:50:11.088 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 10:55:11.089 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 11:00:11.089 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 11:05:11.090 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 11:10:11.091 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 11:15:11.092 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 11:20:11.093 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 11:25:11.094 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 11:30:11.095 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 11:35:11.096 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 11:40:11.098 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 11:45:11.099 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 11:50:11.100 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 11:55:11.100 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 12:00:11.101 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 12:05:11.102 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 12:10:11.102 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 12:15:11.103 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 12:20:11.104 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 12:25:11.105 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 12:30:11.106 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 12:35:11.107 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 12:40:11.108 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 12:45:11.109 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 12:50:11.110 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 12:55:11.111 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 13:00:11.112 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 13:05:11.113 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 13:10:11.114 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 13:15:11.115 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 13:20:10.516 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 13:20:10.516 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 13:20:10.520 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 13:20:11.116 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 13:21:10.546 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 13:21:10.546 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 13:21:10.550 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 13:22:10.579 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 13:22:10.579 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 13:22:10.583 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 13:23:10.613 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 13:23:10.614 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 13:23:10.618 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 13:24:10.646 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 13:24:10.646 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 13:24:10.650 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 13:25:10.675 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 13:25:10.676 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 13:25:10.679 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 13:25:11.117 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 13:26:10.703 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 13:26:10.703 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 13:26:10.707 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 13:27:10.732 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 13:27:10.732 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 13:27:10.736 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 13:28:10.760 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 13:28:10.761 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 13:28:10.765 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 13:29:10.794 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 13:29:10.795 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 13:29:10.800 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 13:30:10.828 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 13:30:10.829 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 13:30:10.833 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 13:30:11.118 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 13:31:10.860 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 13:31:10.861 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 13:31:10.865 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 13:32:10.890 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 13:32:10.891 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 13:32:10.895 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 13:33:10.916 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 13:33:10.916 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 13:33:10.919 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 13:34:10.945 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 13:34:10.946 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 13:34:10.949 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 13:35:10.973 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 13:35:10.974 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 13:35:10.978 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 13:35:11.119 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 13:40:11.120 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 13:45:11.121 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 13:50:11.122 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 13:55:11.123 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 14:00:11.124 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 14:05:11.125 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 14:10:11.125 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 14:15:11.126 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 14:20:11.127 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 14:25:11.128 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 14:30:11.129 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 14:35:11.130 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 14:40:11.131 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 14:45:11.132 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 14:50:11.133 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 14:55:11.134 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 15:00:11.135 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 15:05:11.136 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 15:10:11.137 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 15:15:11.138 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 15:20:11.139 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 15:25:11.140 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 15:30:11.141 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 15:35:11.142 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 15:40:11.143 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 15:45:11.144 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 15:50:11.145 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 15:55:11.146 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 16:00:11.147 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 16:05:11.148 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 16:10:11.149 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 16:15:11.149 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 16:20:11.150 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 16:25:11.151 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 16:30:11.152 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 16:32:10.536 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 16:32:10.537 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 16:32:10.544 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 16:33:10.569 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 16:33:10.569 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 16:33:10.571 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 16:34:10.600 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 16:34:10.600 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 16:34:10.604 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 16:35:10.639 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 16:35:10.639 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 16:35:10.643 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 16:35:11.152 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 16:36:10.665 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 16:36:10.666 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 16:36:10.670 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 16:37:10.698 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 16:37:10.698 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 16:37:10.702 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 16:38:10.728 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 16:38:10.728 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 16:38:10.732 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 16:39:10.761 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 16:39:10.761 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 16:39:10.765 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 16:40:10.790 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 16:40:10.791 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 16:40:10.795 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 16:40:11.153 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 16:41:10.821 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 16:41:10.822 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 16:41:10.825 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 16:42:10.854 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 16:42:10.855 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 16:42:10.858 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 16:43:10.887 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 16:43:10.887 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 16:43:10.892 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 16:44:10.920 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 16:44:10.920 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 16:44:10.924 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 16:45:10.951 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 16:45:10.952 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 16:45:10.956 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 16:45:11.154 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 16:46:10.990 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 16:46:10.990 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 16:46:10.997 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 16:48:11.041 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 16:48:11.041 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 16:48:11.046 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 16:49:11.068 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 16:49:11.069 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 16:49:11.073 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 16:50:11.098 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 16:50:11.098 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 16:50:11.102 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 16:50:11.155 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 16:51:11.127 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 16:51:11.128 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 16:51:11.132 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 16:52:11.159 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 16:52:11.160 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 16:52:11.164 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 16:53:11.191 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 16:53:11.191 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 16:53:11.195 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 16:54:11.222 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 16:54:11.223 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 16:54:11.227 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 16:55:11.156 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 16:55:11.254 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 16:55:11.255 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 16:55:11.259 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 16:56:11.286 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 16:56:11.287 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 16:56:11.291 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 16:57:11.317 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 16:57:11.317 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 16:57:11.320 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 16:58:11.347 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 16:58:11.347 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 16:58:11.351 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 16:59:11.376 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 16:59:11.377 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 16:59:11.381 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 17:00:11.157 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 17:00:11.406 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 17:00:11.407 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 17:00:11.411 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 17:01:11.439 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 17:01:11.439 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 17:01:11.443 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 17:02:11.472 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 17:02:11.473 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 17:02:11.477 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 17:03:11.502 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - Re-registering apps/MICROSERVICE2
+03-01-2021 17:03:11.502 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 17:03:11.506 DiscoveryClient-HeartbeatExecutor-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 17:05:11.158 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 17:10:11.159 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 17:15:11.160 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 17:20:11.160 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 17:25:11.161 AsyncResolver-bootstrap-executor-0  [INFO ] ConfigClusterResolver - Resolving eureka endpoints via configuration
+03-01-2021 17:29:38.145 SpringContextShutdownHook  [INFO ] EurekaServiceRegistry - Unregistering application MICROSERVICE2 with eureka with status DOWN
+03-01-2021 17:29:38.146 SpringContextShutdownHook  [INFO ] DiscoveryClient$3 - Saw local status change event StatusChangeEvent [timestamp=1609691378146, current=DOWN, previous=UP]
+03-01-2021 17:29:38.147 DiscoveryClient-InstanceInfoReplicator-0  [INFO ] DiscoveryClient$3 - Saw local status change event StatusChangeEvent [timestamp=1609691378147, current=UP, previous=DOWN]
+03-01-2021 17:29:38.147 DiscoveryClient-InstanceInfoReplicator-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0: registering service...
+03-01-2021 17:29:38.159 DiscoveryClient-InstanceInfoReplicator-0  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - registration status: 204
+03-01-2021 17:29:38.170 SpringContextShutdownHook  [INFO ] ExecutorConfigurationSupport - Shutting down ExecutorService 'applicationTaskExecutor'
+03-01-2021 17:29:39.181 SpringContextShutdownHook  [INFO ] DiscoveryClient - Shutting down DiscoveryClient ...
+03-01-2021 17:29:42.184 SpringContextShutdownHook  [INFO ] DiscoveryClient - Unregistering ...
+03-01-2021 17:29:42.187 SpringContextShutdownHook  [INFO ] DiscoveryClient - DiscoveryClient_MICROSERVICE2/192.168.1.103:microservice2:0 - deregister  status: 200
+03-01-2021 17:29:42.203 SpringContextShutdownHook  [INFO ] DiscoveryClient - Completed shut down of DiscoveryClient

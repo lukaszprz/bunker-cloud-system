@@ -1,0 +1,12 @@
+com/bunker/microservice1/wrappers/SpringRequestWrapper.class
+com/bunker/microservice1/filters/SpringLoggingFilter.class
+com/bunker/microservice1/configuration/UniqueIDGenerator.class
+com/bunker/microservice1/wrappers/SpringRequestWrapper$1.class
+com/bunker/microservice1/configuration/Microservice1Configuration.class
+com/bunker/microservice1/wrappers/ServletOutputStreamWrapper.class
+com/bunker/microservice1/controller/rest/Microservice1RestController.class
+com/bunker/microservice1/interceptors/CorrelationInterceptor.class
+com/bunker/microservice1/Microservice1Application.class
+com/bunker/microservice1/configuration/SpringLoggingAutoConfiguration.class
+com/bunker/microservice1/interceptors/RestTemplateSetHeaderInterceptor.class
+com/bunker/microservice1/wrappers/SpringResponseWrapper.class

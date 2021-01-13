@@ -1,0 +1,291 @@
+<!doctype html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+	<meta charset="utf-8" />
+	<link rel="apple-touch-icon" sizes="76x76" href="assets/img/apple-icon.png"/>
+	<link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicon.png"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+	<title>Trampoline - Manage local Spring Boot instances</title>
+
+	<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+    <meta name="viewport" content="width=device-width" />
+
+    <link th:href="@{/v2/css/bootstrap.min.css}" rel="stylesheet" />
+    <link th:href="@{/v2/css/animate.min.css}" rel="stylesheet" />
+    <link th:href="@{/v2/css/paper-dashboard.css}" rel="stylesheet" />
+    <link th:href="@{/v2/css/demo.css}" rel="stylesheet" />
+    <link th:href="@{/v2/css/timeline.css}" rel="stylesheet" />
+    <link th:href="@{/v2/css/loading.css}" rel="stylesheet" />
+
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet"/>
+    <link href='https://fonts.googleapis.com/css?family=Muli:400,300' rel='stylesheet' type='text/css'/>
+    <link th:href="@{/v2/css/themify-icons.css}" rel="stylesheet" />
+
+</head>
+<body>
+<div class="front-loading">
+    <div class="spinner">
+        <div class="dot1"></div>
+        <div class="dot2"></div>
+    </div>
+</div>
+<div class="wrapper">
+    <div th:include="fragments/menu :: menu-bar(selected='Instances')" ></div>
+
+    <div class="main-panel">
+		<nav class="navbar navbar-default">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar bar1"></span>
+                        <span class="icon-bar bar2"></span>
+                        <span class="icon-bar bar3"></span>
+                    </button>
+                    <a class="navbar-brand" href="#">Instances</a>
+                </div>
+                
+            </div>
+        </nav>
+
+
+        <div class="content">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-2 col-md-2">
+                        <div class="card">
+                            <div class="header">
+                                <h4 class="title">Launch Group</h4>
+                                <p class="category">Select a group</p>
+                            </div>
+
+                            <div class="content">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="form-group" id="form-start-group">
+                                            <label>Group*</label>
+                                            <select id="input-start-group" class="form-control border-input">
+                                                <option value="-1">Select one service...</option>
+                                                <option th:each="group : ${microservicesgroups}" th:text="${group.name}" th:value="${group.id}"></option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="text-center">
+                                    <button onclick="startGroup()" class="btn btn-success btn-fill btn-wd">Launch</button>
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-2">
+                        <div class="card">
+                            <div class="header">
+                                <h4 class="title">External Instance</h4>
+                                <p class="category">Select an instance</p>
+                            </div>
+
+                            <div class="content">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="form-group" id="form-external-instance">
+                                            <label>Group*</label>
+                                            <select id="input-external-instance" class="form-control border-input">
+                                                <option value="-1">Select one instance...</option>
+                                                <option th:each="externalInstance : ${externalInstances}" th:text="${externalInstance.name}" th:value="${externalInstance.id}"></option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="text-center">
+                                    <button onclick="addExternalInstance()" class="btn btn-success btn-fill btn-wd">Add</button>
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-8 col-md-8">
+                        <div class="card">
+                            <div class="header">
+                               <h4 class="title">Launch Instance</h4>
+                                <p class="category">Set needed information</p>
+                            </div>
+
+                            <div class="content">
+                                    <div class="row">
+                                        <div class="col-md-5">
+                                            <div class="form-group" id="form-start-microservice">
+                                                <label>Microservice*</label>
+                                                <select id="input-start-microservice" onchange="updateStartInstanceForm()" class="form-control border-input">
+                                                    <option value="-1">Select one service...</option>
+                                                    <option th:each="microservice : ${microservices}" th:text="${microservice.name}" th:value="${microservice.id}"></option>
+                                               </select>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-2">
+                                            <div class="form-group" id="form-start-port">
+                                                <label>Port*</label>
+                                                <input id="input-start-port" type="text" class="form-control border-input" placeholder="" value=""/>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-2">
+                                            <div class="form-group" id="form-start-buildtool">
+                                                <label>Build Tool</label>
+                                                <input id="input-start-buildtool" type="text" class="form-control border-input" disabled="true" placeholder=""/>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3">
+                                            <div class="form-group" id="form-start-prefix">
+                                                <label>Actuator Prefix</label>
+                                                <input id="input-start-prefix" type="text" class="form-control border-input" disabled="true" placeholder=""/>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <div class="form-group" id="form-start-arguments">
+                                                <label>VM Arguments</label>
+                                                <input id="input-start-arguments" type="text" class="form-control border-input" placeholder="Ex: -Dmy.arg.one=false -Dmy.arg.two=true"/>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="form-group" id="form-start-pom">
+                                                <label>Pom location</label>
+                                                <input id="input-start-pom" type="text" class="form-control border-input" disabled="true" placeholder=""/>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="text-center">
+                                        <button onclick="validateNewInstance()" class="btn btn-success btn-fill btn-wd">Launch</button>
+                                    </div>
+                                    <div class="clearfix"></div>
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="card">
+                            <div class="header">
+                                <h4 class="title">Instances List</h4>
+                                <p class="category">Check Status, Trace or metrics.</p>
+                            </div>
+                            <div class="content table-responsive table-full-width">
+                                <table class="table table-striped">
+                                   <thead>
+                                        <th>#</th>
+                                        <th>Name</th>
+                                        <th>Host</th>
+                                        <th>Status</th>
+                                        <th>Git Info</th>
+                                        <th>Logs</th>
+                                        <th>Trace</th>
+                                        <th>Metrics</th>
+                                        <th>Restart</th>
+                                        <th>Kill</th>
+                                    </thead>
+                                    <tbody>
+                                        <tr th:each="instance, itemIter : ${instances}" class="even gradeA">
+                                            <td th:text="${itemIter.count}"></td>
+                                            <td th:id="'td-name-' + ${instance.id}" th:text="${instance.name}"></td>
+                                            <td th:id="'td-port-' + ${instance.id}"  class="center" th:text="${instance.ip}+':'+${instance.port}"></td>
+                                            <td class="center"><span class="label label-warning" th:id="'label-status-' + ${instance.id}">Waiting</span></td>
+                                            <td class="center"><button type="button" th:onclick="'showInfo(\'' + ${instance.id} + '\', \'' + ${instance.name} + '\', \'' + ${instance.port} + '\')'" class="btn btn-success btn-sm"><i class="fa fa-lg fa-info-circle" aria-hidden="true"></i></button></td>
+                                            <td class="center"><button type="button" th:onclick="'window.open(\'http://'+${instance.ip}+':'+${instance.port}+'/'+${instance.actuatorPrefix}+'/logfile\', \'_blank\');'" class="btn btn-primary btn-sm"><i class="fa fa-lg fa-clipboard" aria-hidden="true"></i></button></td>
+                                            <td class="center"><button type="button" th:onclick="'showTraces(\'' + ${instance.id} + '\', \'' + ${instance.name} + '\', \'' + ${instance.port} + '\')'" class="btn btn-warning btn-sm"><i class="fa fa-lg fa-book" aria-hidden="true"></i></button></td>
+                                            <td class="center"><button type="button" th:onclick="'showMetrics(\'' + ${instance.id} + '\', \'' + ${instance.name} + '\', \'' + ${instance.port} + '\')'" class="btn btn-info btn-sm"><i class="fa fa-lg fa-line-chart" aria-hidden="true"></i></button></td>
+                                            <td class="center"><button th:if="${instance.ip == '127.0.0.1'}" type="button" th:onclick="'restartInstance(\'' + ${instance.id} + '\')'" class="btn btn-danger btn-sm"><i class="fa fa-lg fa-undo" aria-hidden="true"></i></button></td>
+                                            <td class="center"><button type="button" th:onclick="'killInstance(\'' + ${instance.id} + '\')'" class="btn btn-danger btn-sm"><i class="fa fa-lg fa-power-off" aria-hidden="true"></i></button></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div id="modal-instance-info" class="modal fade" role="dialog">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title"><span id="info-title"></span></h4>
+                    </div>
+                    <div class="modal-body">
+                        <p>Pom or Build File Location:<br/><span class="text-success" id="modal-info-pomLocation"></span></p>
+                        <p>Git Branch:<br/><span class="text-success" id="modal-info-git-branch"></span></p>
+                        <p>Last Commit:
+                            <br/><span class="text-success" id="modal-info-git-commit-message"></span>
+                            <br/><span class="text-success" id="modal-info-git-commit-owner"></span>
+                        <br/><span class="text-success" id="modal-info-git-commit-date"></span>
+                        </p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div id="modal-metrics" class="modal fade" role="dialog">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title"><span id="metrics-title"></span></h4>
+                    </div>
+                    <div class="modal-body" id="#canvas-wrapper">
+                        <canvas id="metrics-chart" width="850" height="700"></canvas>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <div id="modal-traces" class="modal fade" role="dialog">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title"><span id="traces-title"></span></h4>
+                    </div>
+                    <div class="modal-body">
+                        <div class="timeline" id="timeline-content">
+
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <footer class="footer">
+            <div th:include="fragments/footer :: footer-bar" ></div>
+        </footer>
+
+
+    </div>
+</div>
+
+
+</body>
+
+
+<script type="text/javascript" th:src="@{/v2/js/jquery-1.10.2.js}"></script>
+<script type="text/javascript" th:src="@{/v2/js/bootstrap.min.js}"></script>
+<script type="text/javascript" th:src="@{/v2/js/bootstrap-notify.js}"></script>
+<script type="text/javascript" th:src="@{/v2/js/paper-dashboard.js}"></script>
+<script type="text/javascript" th:src="@{/v2/js/demo.js}"></script>
+<script type="text/javascript" th:src="@{/v2/js/Chart.min.js}"></script>
+<script type="text/javascript" th:src="@{/v2/js/app/instances.js?v3.7}"></script>
+<script type="text/javascript" th:src="@{/v2/js/app/loading.js?v3.7}"></script>
+
+
+</html>
