@@ -1,7 +1,7 @@
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 .m2/repository/
-uis-simulators/scripts/linux/
+.attach_pid*
 
 ### STS ###
 .apt_generated
