@@ -1,7 +1,0 @@
-/home/lukasz/Documents/workspace/bunker-system/bunker-ldap-server/src/main/java/com/bunker/ldap/model/User.java
-/home/lukasz/Documents/workspace/bunker-system/bunker-ldap-server/src/main/java/com/bunker/ldap/repository/UserRepository.java
-/home/lukasz/Documents/workspace/bunker-system/bunker-ldap-server/src/main/java/com/bunker/ldap/service/UserService.java
-/home/lukasz/Documents/workspace/bunker-system/bunker-ldap-server/src/main/java/com/bunker/ldap/LDAPServerApplication.java
-/home/lukasz/Documents/workspace/bunker-system/bunker-ldap-server/src/main/java/com/bunker/ldap/controller/rest/UserController.java
-/home/lukasz/Documents/workspace/bunker-system/bunker-ldap-server/src/main/java/com/bunker/ldap/configuration/WebSecurityConfiguration.java
-/home/lukasz/Documents/workspace/bunker-system/bunker-ldap-server/src/main/java/com/bunker/ldap/configuration/LDAPServerConfiguration.java

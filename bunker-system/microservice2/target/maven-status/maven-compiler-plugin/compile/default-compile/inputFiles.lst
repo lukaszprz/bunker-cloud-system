@@ -1,8 +1,0 @@
-/home/lukasz/Documents/workspace/bunker-system/microservice2/src/main/java/com/bunker/microservice2/controller/rest/Microservice2RestController.java
-/home/lukasz/Documents/workspace/bunker-system/microservice2/src/main/java/com/bunker/microservice2/configuration/WebSecurity.java
-/home/lukasz/Documents/workspace/bunker-system/microservice2/src/main/java/com/bunker/microservice2/configuration/WebConfiguration.java
-/home/lukasz/Documents/workspace/bunker-system/microservice2/src/main/java/com/bunker/microservice2/configuration/Microservice2Configuration.java
-/home/lukasz/Documents/workspace/bunker-system/microservice2/src/main/java/com/bunker/microservice2/interceptors/CustomClientHttpRequestInterceptor.java
-/home/lukasz/Documents/workspace/bunker-system/microservice2/src/main/java/com/bunker/microservice2/configuration/CustomRestTemplateCustomizer.java
-/home/lukasz/Documents/workspace/bunker-system/microservice2/src/main/java/com/bunker/microservice2/Microservice2Application.java
-/home/lukasz/Documents/workspace/bunker-system/microservice2/src/main/java/com/bunker/microservice2/interceptors/CorrelationInterceptor.java

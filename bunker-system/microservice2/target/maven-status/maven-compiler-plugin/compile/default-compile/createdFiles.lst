@@ -1,8 +1,0 @@
-com/bunker/microservice2/controller/rest/Microservice2RestController.class
-com/bunker/microservice2/interceptors/CustomClientHttpRequestInterceptor.class
-com/bunker/microservice2/configuration/CustomRestTemplateCustomizer.class
-com/bunker/microservice2/configuration/Microservice2Configuration.class
-com/bunker/microservice2/interceptors/CorrelationInterceptor.class
-com/bunker/microservice2/Microservice2Application.class
-com/bunker/microservice2/configuration/WebConfiguration.class
-com/bunker/microservice2/configuration/WebSecurity.class

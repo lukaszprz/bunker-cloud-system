@@ -1,7 +1,0 @@
-/home/lukasz/Documents/workspace/bunker-system/bunker-gateway-api/src/main/java/com/bunker/gateway/configuration/GatewayApiConfiguration.java
-/home/lukasz/Documents/workspace/bunker-system/bunker-gateway-api/src/main/java/com/bunker/gateway/GatewayApiApplication.java
-/home/lukasz/Documents/workspace/bunker-system/bunker-gateway-api/src/main/java/com/bunker/gateway/routers/GatewayAPIRouter.java
-/home/lukasz/Documents/workspace/bunker-system/bunker-gateway-api/src/main/java/com/bunker/gateway/web/clients/GatewayAPIWebClient.java
-/home/lukasz/Documents/workspace/bunker-system/bunker-gateway-api/src/main/java/com/bunker/gateway/filters/global/LoggingFilter.java
-/home/lukasz/Documents/workspace/bunker-system/bunker-gateway-api/src/main/java/com/bunker/gateway/filters/CorrelationFilter.java
-/home/lukasz/Documents/workspace/bunker-system/bunker-gateway-api/src/main/java/com/bunker/gateway/handlers/GatewayAPIHandler.java

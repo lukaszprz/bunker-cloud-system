@@ -1,7 +1,0 @@
-com/bunker/ldap/controller/rest/UserController.class
-com/bunker/ldap/service/UserService.class
-com/bunker/ldap/LDAPServerApplication.class
-com/bunker/ldap/configuration/WebSecurityConfiguration.class
-com/bunker/ldap/configuration/LDAPServerConfiguration.class
-com/bunker/ldap/repository/UserRepository.class
-com/bunker/ldap/model/User.class

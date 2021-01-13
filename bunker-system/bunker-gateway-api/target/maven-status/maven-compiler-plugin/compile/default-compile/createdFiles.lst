@@ -1,7 +1,0 @@
-com/bunker/gateway/configuration/GatewayApiConfiguration.class
-com/bunker/gateway/filters/CorrelationFilter.class
-com/bunker/gateway/handlers/GatewayAPIHandler.class
-com/bunker/gateway/web/clients/GatewayAPIWebClient.class
-com/bunker/gateway/filters/global/LoggingFilter.class
-com/bunker/gateway/routers/GatewayAPIRouter.class
-com/bunker/gateway/GatewayApiApplication.class
